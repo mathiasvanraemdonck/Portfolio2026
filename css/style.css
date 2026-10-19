@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(175, 172, 172);
+}
+.links {
+    text-align: right;
+    word-spacing: 50px;
+    text-decoration: overline underline;
+    color: black;
+}
+h1 {
+    text-align: left;
+    color: gold;
+}
